@@ -2,4 +2,4 @@ print("Salam Dünya!")
 
 name = input("Adınızı daxil edin: ")
 print("Salam,", name)
-print("Salam Razin uşağlarına")
+print("Salam Bakıxanov uşağlarına")
